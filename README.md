@@ -35,3 +35,9 @@ Si une commande spécifique est détectée dans l'URL, le programme exécute la 
 
 ### Réponse avec la page HTML
 Une fois les actions traitées, le code renvoie une page HTML en réponse à la requête du client.
+
+
+
+# À la ligne 218
+
+La boucle est amenée à changer elle sera optimisé.
